@@ -36,7 +36,7 @@ The repository has no (pre)releases yet, work in progress is within the main bra
 * Meetings are held virtually 
   * Schedule: Bi-weekly, Thursday, 09:00 CEST (07:00 UTC)
   * [Registration / Join](https://zoom-lfx.platform.linuxfoundation.org/meeting/99479758031?password=c705dd6f-a1c5-44e4-af97-331a18395fb8)
-  * Minutes: Access [meeting minutes](https://lf-camaraproject.atlassian.net/wiki/x/XjPe) !! update this link to your minutes archive page using the "Share" link and delete the task
+  * Minutes: Access [meeting minutes](https://lf-camaraproject.atlassian.net/wiki/x/XjPe)
 * Mailing List
   * Subscribe / Unsubscribe to the mailing list <https://lists.camaraproject.org/g/sp-location-insights>.
   * A message to the community of this Sub Project can be sent using <sp-location-insights@lists.camaraproject.org>.
