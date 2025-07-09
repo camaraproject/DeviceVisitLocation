@@ -11,7 +11,7 @@
 
 Sandbox API Repository to describe, develop, document, and test the DeviceVisitLocation Service API(s), working closely together with MostFrequentLocation.
 
-* API Repository [wiki page](https://lf-camaraproject.atlassian.net/wiki/x/XjPe) !! currently pointing to LocationInsights, to be replaced when the new page is created
+* API Repository [wiki page](https://lf-camaraproject.atlassian.net/wiki/x/AQCICQ)
 
 ## Scope
 
