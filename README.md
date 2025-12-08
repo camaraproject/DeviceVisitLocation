@@ -17,7 +17,7 @@ Sandbox API Repository to describe, develop, document, and test the DeviceVisitL
 
 * Service API(s) “DeviceVisitLocation” (see APIBacklog.md) 
 * The API(s) provide(s) the API consumer with the ability to:  
-  * §Short API scope description§ !! Add here a scope description according to the API proposal
+  * query the visit locations of a device during a certain time period.
 * Describe, develop, document, and test the API(s)
 * Started: May 2024 (originally as part of LocationInsights, own repository since July 2025)
 <!-- * Incubating stage since: {{incubation date}} --> 
